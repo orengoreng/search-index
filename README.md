@@ -73,6 +73,13 @@ Follow the official Docker installation guide for your operating system:
 Windows & macOS:
      https://docs.docker.com/desktop/install/
 
+#### 3. Maven
+
+Follow the official Docker installation guide for your operating system:
+
+https://maven.apache.org/install.html
+
+
 ### Installation
 ##### Build the Docker Image
 Build project by maven.
