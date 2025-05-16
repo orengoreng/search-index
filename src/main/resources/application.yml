@@ -1,0 +1,12 @@
+springdoc:
+  api-docs:
+    path: /api-docs
+  swagger-ui:
+    path: /swagger-ui.html
+    enabled: true
+
+storage:
+  location: /tmp
+
+log4j:
+  rootLogger: INFO, ERROR, consoleAppender
