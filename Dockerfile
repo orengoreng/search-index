@@ -1,5 +1,5 @@
 # Use an official Maven image as the base image
-FROM maven:3.8.4-openjdk-17-slim AS builder
+FROM maven:3.8.5-openjdk-17-slim AS builder
 # Set the working directory in the container
 WORKDIR /app
 # Copy the pom.xml and the project files to the container
