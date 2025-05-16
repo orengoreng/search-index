@@ -85,7 +85,7 @@ https://maven.apache.org/install.html
 Build project by maven.
 
 ```sh
-mvn clean package
+mvn clean-DskipTests package 
 ```
 
 Run the following command to build the Docker image, refers to the current directory (where the Dockerfile is):
