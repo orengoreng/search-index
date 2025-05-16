@@ -75,6 +75,12 @@ Windows & macOS:
 
 ### Installation
 ##### Build the Docker Image
+Build project by maven.
+
+```sh
+mvn clean package
+```
+
 Run the following command to build the Docker image, refers to the current directory (where the Dockerfile is):
       
 ```sh
